@@ -1,0 +1,6 @@
+COLLECTION_DELETE_SUCCESS_MSG="Collection deleted successfully"
+REQUEST_COUNT_SUCCESS_MSG="Request count reset successfully"
+FETCH_MOVIES_FAILURE_MSG="Unable to fetch movies"
+USERNAME_PASSWORD_REQ_VALIDATION_MSG="Both username and password are required."
+USERNAME_PASSWORD_INVALID_MSG="Invalid username or password."
+USER_REGISTER_SUCCESS_MSG="User registered successfully."

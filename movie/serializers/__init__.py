@@ -1,0 +1,1 @@
+from movie.serializers.movie import *
